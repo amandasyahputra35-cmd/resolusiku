@@ -1,5 +1,5 @@
 Di Tahhun ini saya akan ngulang belajar pemrograman
 -step pertama saya akan mulai mgoding setiap hari
--di step pertaman saya akan belajar php dari awal
 -saya akan mulai belajar github dan git dulu
 -dan akan berusaha konsisten 
+-belajar php
